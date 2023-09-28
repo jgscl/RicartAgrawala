@@ -1,2 +1,2 @@
-# Uni-Distrib-RicartAgrawala
+# RicartAgrawala
 University project for the Distributed Systems subject
